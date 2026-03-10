@@ -1,0 +1,6 @@
+{
+  "autoUpdate": true,
+  "securityCheck": true,
+  "recommendationEngine": "enabled",
+  "dataCollection": "anonymous"
+}

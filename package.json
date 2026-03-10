@@ -1,0 +1,23 @@
+{
+  "name": "oh-skill-hub",
+  "version": "1.0.0",
+  "description": "OpenClaw skill recommendation and management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "management",
+    "recommendation",
+    "ai"
+  ],
+  "author": "Tony",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

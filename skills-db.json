@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "name": "image-processor",
+      "description": "Process and manipulate images with AI",
+      "tags": ["image", "ai", "processing"],
+      "score": 95,
+      "stars": 1234,
+      "repo": "https://github.com/example/image-processor",
+      "permissions": ["filesystem"]
+    },
+    {
+      "name": "web-scraper",
+      "description": "Scrape web content intelligently",
+      "tags": ["web", "scraping", "data"],
+      "score": 88,
+      "stars": 892,
+      "repo": "https://github.com/example/web-scraper",
+      "permissions": ["network"]
+    }
+  ],
+  "installed": [],
+  "usage": {}
+}
